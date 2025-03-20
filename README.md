@@ -1,5 +1,5 @@
 # SCT_WD_01
-# Nexcent
+# Nexcent (Fully Responsive landing page)
 
 A modern and responsive website footer designed using **HTML & CSS**. This footer includes four sections:
 
